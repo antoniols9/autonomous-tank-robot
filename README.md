@@ -30,7 +30,7 @@ This repository documents my robotics learning journey through real-world projec
 
 ## Repository Structure
 
-docs/    -> project notes and documentation
-images/  -> photos and diagrams
-videos/  -> robot demos
-src/     -> source code
+- docs/    -> project notes and documentation
+- images/  -> photos and diagrams
+- videos/  -> robot demos
+- src/     -> source code
