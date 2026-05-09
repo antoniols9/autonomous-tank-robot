@@ -12,11 +12,10 @@ Learning autonomous robotics through hands-on projects using ROS 2, Raspberry Pi
 
 ## Hardware
 - Raspberry Pi 5
-- Yahboom ROS Expansion Board
-- OAK-D Lite
+- Yahboom ROS Expansion Board V3.0
+- OAK-D Lite FF
 - BNO085 IMU
-- DFR0601 Motor Driver
-- Tank robot platform
+- Tank robot platform with encoder motors
 
 ## Planned Features
 - ROS 2 teleoperation
